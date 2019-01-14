@@ -1,2 +1,2 @@
-# videoOS-console
-videoOS 控制台
+# VideoOS-console
+VideoOS 控制台
