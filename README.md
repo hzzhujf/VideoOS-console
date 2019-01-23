@@ -1,6 +1,4 @@
-<h1 align="center">
-  OS 开源控制台
-</h1>
+# VideoOS console
 <p align="center">
   <a href="https://opensource.org/osd-annotated"><img src="https://img.shields.io/badge/lisense-MIT-brightgreen.svg"></a>
 </p>
